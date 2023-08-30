@@ -13,7 +13,7 @@ TEST:
 • Unit testing of controller actions using the Moq framework
   
 CLIENT (Single Page Application):  
-• JavaScript 
+• JavaScript  
 • HTML  
 • CSS  
 • Bootstrap  
