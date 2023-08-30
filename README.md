@@ -14,7 +14,7 @@ TEST:
   
 CLIENT (Single Page Application):  
 • JavaScript  
+• Fetch API  
 • HTML  
 • CSS  
 • Bootstrap  
-• Fetch API
