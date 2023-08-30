@@ -1,7 +1,8 @@
 # FishMarketWebAPP-FinalExam-NET-FTN-Informatika  
 Final exam project of FTN Informatika .NET web development course  
+Made in Visual Studio IDE 2022  
 
-A web application with elementary functionalities for fish markets and the fish they sell, implemented using the following working frameworks, tools and techniques:
+Web application with elementary functionalities for fish markets and the fish they sell, implemented using the following working frameworks, tools and techniques:
 
 SERVER:  
 • ASP.NET Core Web API with Individual accounts (OAuth2)  
