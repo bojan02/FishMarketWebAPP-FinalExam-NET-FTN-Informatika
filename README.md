@@ -6,7 +6,7 @@ Web application with elementary functionalities for fish markets and the fish th
 
 SERVER:  
 • ASP.NET Core Web API with Individual accounts  
-• JWT Token
+• JWT Token  
 • Entity Framework Core with implementation of AutoMapper, Repository pattern and Dependency Injection concept  
 • Persistence of data in a relational database on a local MS SQL Server that was created with a Code-First approach
   
